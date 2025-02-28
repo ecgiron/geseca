@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestión de Contratos - GESECA</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="scripts/gestionar_contratos_script.js"></script>
+</head>
+<body>
+    <header>
+        <h1>Gestión de Contratos - GESECA</h1>
+        <div>
+            <span>Bienvenido, <span id="usuario_nombre"></span></span>
+            <button id="cerrar_sesion">Cerrar Sesión</button>
+        </div>
+    </header>
+
+    <section>
+        <h2>Lista de Contratos</h2>
+        <table id="tabla_contratos">
+            <thead>
+                <tr>
+                    <th>Código</th>
+                    <th>Proveedor</th>
+                    <th>Fecha Inicio</th>
+                    <th>Fecha Fin</th>
+                    <th>Detalles</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Aquí se mostrarán los contratos -->
+            </tbody>
+        </table>
+        <button onclick="exportar('contratos', 'excel')">Exportar a Excel</button>
+        <button onclick="exportar('contratos', 'pdf')">Exportar a PDF</button>
+    </section>
+</body>
+</html>

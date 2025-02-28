@@ -1,0 +1,7514 @@
+[
+    {
+        "db_Cod_DD": "00",
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "00",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Medellín"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "004",
+        "db_MUNICIPIO": "Abejorral"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "007",
+        "db_MUNICIPIO": "Abriaqui"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "010",
+        "db_MUNICIPIO": "Alejandria"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "016",
+        "db_MUNICIPIO": "Amalfi"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "019",
+        "db_MUNICIPIO": "Andes"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "022",
+        "db_MUNICIPIO": "Angelopolis"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "025",
+        "db_MUNICIPIO": "Angostura"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "028",
+        "db_MUNICIPIO": "Anori"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "034",
+        "db_MUNICIPIO": "Anza"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "037",
+        "db_MUNICIPIO": "Arboletes"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "039",
+        "db_MUNICIPIO": "Argelia"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "040",
+        "db_MUNICIPIO": "Armenia"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "043",
+        "db_MUNICIPIO": "Barbosa"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "049",
+        "db_MUNICIPIO": "Bello"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "046",
+        "db_MUNICIPIO": "Belmira"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "052",
+        "db_MUNICIPIO": "Betania"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "055",
+        "db_MUNICIPIO": "Betulia"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "062",
+        "db_MUNICIPIO": "Briceño"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "061",
+        "db_MUNICIPIO": "Buritica"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "064",
+        "db_MUNICIPIO": "Caceres"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "067",
+        "db_MUNICIPIO": "Caicedo"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "073",
+        "db_MUNICIPIO": "Campamento"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "076",
+        "db_MUNICIPIO": "Cañasgordas"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "078",
+        "db_MUNICIPIO": "Caracoli"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "079",
+        "db_MUNICIPIO": "Caramanta"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "085",
+        "db_MUNICIPIO": "Carolina"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "091",
+        "db_MUNICIPIO": "Cisneros"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "094",
+        "db_MUNICIPIO": "Cocorna"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "097",
+        "db_MUNICIPIO": "Concepcion"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 100,
+        "db_MUNICIPIO": "Concordia"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 109,
+        "db_MUNICIPIO": "Dabeiba"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 112,
+        "db_MUNICIPIO": "Don Matias"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 115,
+        "db_MUNICIPIO": "Ebejico"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 211,
+        "db_MUNICIPIO": "El Retiro"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 118,
+        "db_MUNICIPIO": "Entrerrios"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 121,
+        "db_MUNICIPIO": "Envigado"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 124,
+        "db_MUNICIPIO": "Fredonia"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 127,
+        "db_MUNICIPIO": "Frontino"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 130,
+        "db_MUNICIPIO": "Giraldo"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 136,
+        "db_MUNICIPIO": "Gomezplata"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 139,
+        "db_MUNICIPIO": "Granada"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 140,
+        "db_MUNICIPIO": "Guadalupe"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 145,
+        "db_MUNICIPIO": "Guatape"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 148,
+        "db_MUNICIPIO": "Heliconia"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 150,
+        "db_MUNICIPIO": "Hispania"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 151,
+        "db_MUNICIPIO": "Itagüi"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 154,
+        "db_MUNICIPIO": "Ituango"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 157,
+        "db_MUNICIPIO": "Jardin"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 160,
+        "db_MUNICIPIO": "Jerico"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 163,
+        "db_MUNICIPIO": "La Ceja"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 170,
+        "db_MUNICIPIO": "La Pintada"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 169,
+        "db_MUNICIPIO": "La Union"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 172,
+        "db_MUNICIPIO": "Liborina"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 175,
+        "db_MUNICIPIO": "Maceo"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Medellín"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Medellín"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Medellín"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Medellín"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Medellín"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Medellín"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Medellín"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Medellín"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Medellín"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Medellín"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 181,
+        "db_MUNICIPIO": "Montebello"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 184,
+        "db_MUNICIPIO": "Murindo"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 187,
+        "db_MUNICIPIO": "Mutata"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 191,
+        "db_MUNICIPIO": "Nechi"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 192,
+        "db_MUNICIPIO": "Necocli"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 193,
+        "db_MUNICIPIO": "Olaya"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 196,
+        "db_MUNICIPIO": "Peñol"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 199,
+        "db_MUNICIPIO": "Peque"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 202,
+        "db_MUNICIPIO": "Pueblorico"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 168,
+        "db_MUNICIPIO": "Puerto Nare"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 206,
+        "db_MUNICIPIO": "Puerto Triunfo"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 208,
+        "db_MUNICIPIO": "Remedios"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 217,
+        "db_MUNICIPIO": "Sabanalarga"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 220,
+        "db_MUNICIPIO": "Salgar"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 223,
+        "db_MUNICIPIO": "San Andres"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 226,
+        "db_MUNICIPIO": "San Carlos"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 227,
+        "db_MUNICIPIO": "San Francisco"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 229,
+        "db_MUNICIPIO": "San Jeronimo"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 230,
+        "db_MUNICIPIO": "San Jose De La Montaña"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 231,
+        "db_MUNICIPIO": "San Juan De Uraba"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 232,
+        "db_MUNICIPIO": "San Luis"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 235,
+        "db_MUNICIPIO": "San Pedro"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "035",
+        "db_MUNICIPIO": "Apartado"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 238,
+        "db_MUNICIPIO": "San Rafael"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 241,
+        "db_MUNICIPIO": "San Roque"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 244,
+        "db_MUNICIPIO": "San Vicente"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 247,
+        "db_MUNICIPIO": "Santa Barbara"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "049",
+        "db_MUNICIPIO": "Bello"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "088",
+        "db_MUNICIPIO": "Caucasia"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 253,
+        "db_MUNICIPIO": "Santo Domingo"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 256,
+        "db_MUNICIPIO": "Santuario"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 103,
+        "db_MUNICIPIO": "Copacabana"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 121,
+        "db_MUNICIPIO": "Envigado"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 265,
+        "db_MUNICIPIO": "Sopetran"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 268,
+        "db_MUNICIPIO": "Tamesis"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 151,
+        "db_MUNICIPIO": "Itagüi"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 271,
+        "db_MUNICIPIO": "Tarso"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 274,
+        "db_MUNICIPIO": "Titiribi"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 277,
+        "db_MUNICIPIO": "Toledo"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Medellín"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 282,
+        "db_MUNICIPIO": "Uramita"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 214,
+        "db_MUNICIPIO": "Rionegro"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 286,
+        "db_MUNICIPIO": "Valdivia"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 289,
+        "db_MUNICIPIO": "Valparaiso"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 290,
+        "db_MUNICIPIO": "Vegachi"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 292,
+        "db_MUNICIPIO": "Venecia"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 218,
+        "db_MUNICIPIO": "Sabaneta"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 293,
+        "db_MUNICIPIO": "Yali"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 280,
+        "db_MUNICIPIO": "Turbo"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 298,
+        "db_MUNICIPIO": "Yolombo"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 300,
+        "db_MUNICIPIO": "Yondo-Casabe"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 301,
+        "db_MUNICIPIO": "Zaragoza"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "013",
+        "db_MUNICIPIO": "Amaga"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "058",
+        "db_MUNICIPIO": "Bolivar"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "070",
+        "db_MUNICIPIO": "Caldas"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "080",
+        "db_MUNICIPIO": "Carepa"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "082",
+        "db_MUNICIPIO": "Carmen De Viboral"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 106,
+        "db_MUNICIPIO": "Chigorodo"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 117,
+        "db_MUNICIPIO": "El Bagre"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 133,
+        "db_MUNICIPIO": "Girardota"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 142,
+        "db_MUNICIPIO": "Guarne"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 166,
+        "db_MUNICIPIO": "La Estrella"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 178,
+        "db_MUNICIPIO": "Marinilla"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 190,
+        "db_MUNICIPIO": "Nariño"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 205,
+        "db_MUNICIPIO": "Puerto Berrio"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 237,
+        "db_MUNICIPIO": "San Pedro De Uraba"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 250,
+        "db_MUNICIPIO": "Santa Rosa De Osos"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": "031",
+        "db_MUNICIPIO": "Santafé De Antioquia"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 259,
+        "db_MUNICIPIO": "Segovia"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 262,
+        "db_MUNICIPIO": "Sonson"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 270,
+        "db_MUNICIPIO": "Taraza"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 283,
+        "db_MUNICIPIO": "Urrao"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 291,
+        "db_MUNICIPIO": "Vigia Del Fuerte"
+    },
+    {
+        "db_Cod_DD": "01",
+        "db_DEPARTAMENTO": "Antioquia",
+        "db_Cod_MM": 295,
+        "db_MUNICIPIO": "Yarumal"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Barranquilla"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Barranquilla"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "010",
+        "db_MUNICIPIO": "Candelaria"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "022",
+        "db_MUNICIPIO": "Malambo"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Barranquilla"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Barranquilla"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Barranquilla"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Barranquilla"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Barranquilla"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "052",
+        "db_MUNICIPIO": "Soledad"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "031",
+        "db_MUNICIPIO": "El Piojo"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "016",
+        "db_MUNICIPIO": "Juan De Acosta"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "019",
+        "db_MUNICIPIO": "Luruaco"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "025",
+        "db_MUNICIPIO": "Manati"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "034",
+        "db_MUNICIPIO": "Polonuevo"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "035",
+        "db_MUNICIPIO": "Ponedera"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "040",
+        "db_MUNICIPIO": "Repelon"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "052",
+        "db_MUNICIPIO": "Soledad"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "052",
+        "db_MUNICIPIO": "Soledad"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "055",
+        "db_MUNICIPIO": "Suan"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "058",
+        "db_MUNICIPIO": "Tubara"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "061",
+        "db_MUNICIPIO": "Usiacuri"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "004",
+        "db_MUNICIPIO": "Baranoa"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "007",
+        "db_MUNICIPIO": "Campo De La Cruz"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "013",
+        "db_MUNICIPIO": "Galapa"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "028",
+        "db_MUNICIPIO": "Palmar De Varela"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "037",
+        "db_MUNICIPIO": "Puerto Colombia"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "043",
+        "db_MUNICIPIO": "Sabanagrande"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "046",
+        "db_MUNICIPIO": "Sabanalarga"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "047",
+        "db_MUNICIPIO": "Santa Lucia"
+    },
+    {
+        "db_Cod_DD": "03",
+        "db_DEPARTAMENTO": "Atlantico",
+        "db_Cod_MM": "049",
+        "db_MUNICIPIO": "Santo Tomas"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Cartagena"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "022",
+        "db_MUNICIPIO": "Carmen De Bolivar"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Cartagena"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "028",
+        "db_MUNICIPIO": "Magangue"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": 118,
+        "db_MUNICIPIO": "Turbaco"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "004",
+        "db_MUNICIPIO": "Achi"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "006",
+        "db_MUNICIPIO": "Altos Del Rosario"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "005",
+        "db_MUNICIPIO": "Arenal"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "009",
+        "db_MUNICIPIO": "Arroyo Hondo"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "010",
+        "db_MUNICIPIO": "Barranco De Loba"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "013",
+        "db_MUNICIPIO": "Calamar"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "014",
+        "db_MUNICIPIO": "Cantagallo"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Cartagena"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Cartagena"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Cartagena"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Cartagena"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "015",
+        "db_MUNICIPIO": "Cicuco"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "018",
+        "db_MUNICIPIO": "Clemencia"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "016",
+        "db_MUNICIPIO": "Cordoba"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "025",
+        "db_MUNICIPIO": "El Guamo"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "027",
+        "db_MUNICIPIO": "El Peñon"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "026",
+        "db_MUNICIPIO": "Hatillo De Loba"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "031",
+        "db_MUNICIPIO": "Mahates"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "031",
+        "db_MUNICIPIO": "Mahates"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "037",
+        "db_MUNICIPIO": "Margarita"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "041",
+        "db_MUNICIPIO": "Montecristo"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "044",
+        "db_MUNICIPIO": "Morales"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "059",
+        "db_MUNICIPIO": "Pinillos"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "063",
+        "db_MUNICIPIO": "Regidor"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "065",
+        "db_MUNICIPIO": "Rioviejo"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "072",
+        "db_MUNICIPIO": "San Cristobal"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "070",
+        "db_MUNICIPIO": "San Estanislao"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "073",
+        "db_MUNICIPIO": "San Fernando"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "078",
+        "db_MUNICIPIO": "San Jacinto Del Cauca"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "082",
+        "db_MUNICIPIO": "San Martin De Loba"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "084",
+        "db_MUNICIPIO": "San Pablo"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "091",
+        "db_MUNICIPIO": "Santa Catalina"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "094",
+        "db_MUNICIPIO": "Santa Rosa"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "095",
+        "db_MUNICIPIO": "Santa Rosa Del Sur"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "097",
+        "db_MUNICIPIO": "Simiti"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": 106,
+        "db_MUNICIPIO": "Soplaviento"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": 110,
+        "db_MUNICIPIO": "Talaigua Nuevo"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": 113,
+        "db_MUNICIPIO": "Tiquisio"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": 121,
+        "db_MUNICIPIO": "Turbana"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": 124,
+        "db_MUNICIPIO": "Villanueva"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": 127,
+        "db_MUNICIPIO": "Zambrano"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "007",
+        "db_MUNICIPIO": "Arjona"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "040",
+        "db_MUNICIPIO": "Maria La Baja"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "050",
+        "db_MUNICIPIO": "Norosi"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "076",
+        "db_MUNICIPIO": "San Jacinto"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "079",
+        "db_MUNICIPIO": "San Juan Nepomuceno"
+    },
+    {
+        "db_Cod_DD": "05",
+        "db_DEPARTAMENTO": "Bolivar",
+        "db_Cod_MM": "043",
+        "db_MUNICIPIO": "Santa Cruz De Mompox"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Tunja"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Tunja"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "079",
+        "db_MUNICIPIO": "Duitama"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 214,
+        "db_MUNICIPIO": "Puerto Boyaca"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 277,
+        "db_MUNICIPIO": "Sogamoso"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "007",
+        "db_MUNICIPIO": "Almeida"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "008",
+        "db_MUNICIPIO": "Aquitania"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "010",
+        "db_MUNICIPIO": "Arcabuco"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "013",
+        "db_MUNICIPIO": "Belen"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "016",
+        "db_MUNICIPIO": "Berbeo"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "019",
+        "db_MUNICIPIO": "Beteitiva"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "022",
+        "db_MUNICIPIO": "Boavita"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "025",
+        "db_MUNICIPIO": "Boyaca"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "028",
+        "db_MUNICIPIO": "Briceno"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "031",
+        "db_MUNICIPIO": "Buenavista"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "034",
+        "db_MUNICIPIO": "Busbanza"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "037",
+        "db_MUNICIPIO": "Caldas"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "040",
+        "db_MUNICIPIO": "Campohermoso"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "043",
+        "db_MUNICIPIO": "Cerinza"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "064",
+        "db_MUNICIPIO": "Chinavita"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "068",
+        "db_MUNICIPIO": "Chiquiza"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "070",
+        "db_MUNICIPIO": "Chiscas"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "073",
+        "db_MUNICIPIO": "Chita"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "076",
+        "db_MUNICIPIO": "Chitaraque"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "077",
+        "db_MUNICIPIO": "Chivata"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "078",
+        "db_MUNICIPIO": "Chivor"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "046",
+        "db_MUNICIPIO": "Cienega"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "049",
+        "db_MUNICIPIO": "Combita"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "052",
+        "db_MUNICIPIO": "Coper"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "055",
+        "db_MUNICIPIO": "Corrales"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "058",
+        "db_MUNICIPIO": "Covarachia"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "059",
+        "db_MUNICIPIO": "Cubara"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "060",
+        "db_MUNICIPIO": "Cucaita"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "061",
+        "db_MUNICIPIO": "Cuitiva"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "082",
+        "db_MUNICIPIO": "El Cocuy"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "085",
+        "db_MUNICIPIO": "El Espino"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "088",
+        "db_MUNICIPIO": "Firavitoba"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "091",
+        "db_MUNICIPIO": "Floresta"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "094",
+        "db_MUNICIPIO": "Gachantiva"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "097",
+        "db_MUNICIPIO": "Gameza"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 100,
+        "db_MUNICIPIO": "Garagoa"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 103,
+        "db_MUNICIPIO": "Guacamayas"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 106,
+        "db_MUNICIPIO": "Guateque"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 109,
+        "db_MUNICIPIO": "Guayata"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 112,
+        "db_MUNICIPIO": "Guican"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 118,
+        "db_MUNICIPIO": "Iza"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 121,
+        "db_MUNICIPIO": "Jenesano"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 124,
+        "db_MUNICIPIO": "Jerico"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 130,
+        "db_MUNICIPIO": "La Capilla"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 136,
+        "db_MUNICIPIO": "La Uvita"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 137,
+        "db_MUNICIPIO": "La Victoria"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 127,
+        "db_MUNICIPIO": "Labranzagrande"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 142,
+        "db_MUNICIPIO": "Macanal"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 148,
+        "db_MUNICIPIO": "Maripi"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 151,
+        "db_MUNICIPIO": "Miraflores"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 154,
+        "db_MUNICIPIO": "Mongua"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 157,
+        "db_MUNICIPIO": "Mongui"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 160,
+        "db_MUNICIPIO": "Moniquira"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 161,
+        "db_MUNICIPIO": "Motavita"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 163,
+        "db_MUNICIPIO": "Muzo"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 166,
+        "db_MUNICIPIO": "Nobsa"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 169,
+        "db_MUNICIPIO": "Nuevo Colon"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 173,
+        "db_MUNICIPIO": "Oicata"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 176,
+        "db_MUNICIPIO": "Otanche"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 178,
+        "db_MUNICIPIO": "Pachavita"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 179,
+        "db_MUNICIPIO": "Paez"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 184,
+        "db_MUNICIPIO": "Pajarito"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 187,
+        "db_MUNICIPIO": "Panqueba"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 190,
+        "db_MUNICIPIO": "Pauna"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 193,
+        "db_MUNICIPIO": "Paya"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 199,
+        "db_MUNICIPIO": "Paz De Rio"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 202,
+        "db_MUNICIPIO": "Pesca"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 205,
+        "db_MUNICIPIO": "Pisba"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 215,
+        "db_MUNICIPIO": "Quipama"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 217,
+        "db_MUNICIPIO": "Ramiriqui"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 220,
+        "db_MUNICIPIO": "Raquira"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 223,
+        "db_MUNICIPIO": "Rondon"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 226,
+        "db_MUNICIPIO": "Saboya"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 232,
+        "db_MUNICIPIO": "Sachica"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 235,
+        "db_MUNICIPIO": "Samaca"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 237,
+        "db_MUNICIPIO": "San Eduardo"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 238,
+        "db_MUNICIPIO": "San Jose De Pare"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 241,
+        "db_MUNICIPIO": "San Luis De Gaceno"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 247,
+        "db_MUNICIPIO": "San Mateo"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 248,
+        "db_MUNICIPIO": "San Miguel De Sema"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 249,
+        "db_MUNICIPIO": "San Pablo De Borbur"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 251,
+        "db_MUNICIPIO": "Santa Maria"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 253,
+        "db_MUNICIPIO": "Santa Rosa De Viterbo"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 256,
+        "db_MUNICIPIO": "Santa Sofia"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 250,
+        "db_MUNICIPIO": "Santana"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 259,
+        "db_MUNICIPIO": "Sativanorte"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 262,
+        "db_MUNICIPIO": "Sativasur"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 265,
+        "db_MUNICIPIO": "Siachoque"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 268,
+        "db_MUNICIPIO": "Soata"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 274,
+        "db_MUNICIPIO": "Socha"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 271,
+        "db_MUNICIPIO": "Socota"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 280,
+        "db_MUNICIPIO": "Somondoco"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 281,
+        "db_MUNICIPIO": "Sora"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 282,
+        "db_MUNICIPIO": "Soraca"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 283,
+        "db_MUNICIPIO": "Sotaquira"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 286,
+        "db_MUNICIPIO": "Susacon"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 289,
+        "db_MUNICIPIO": "Sutamarchan"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 292,
+        "db_MUNICIPIO": "Sutatenza"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 298,
+        "db_MUNICIPIO": "Tasco"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 301,
+        "db_MUNICIPIO": "Tenza"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 304,
+        "db_MUNICIPIO": "Tibana"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 307,
+        "db_MUNICIPIO": "Tibasosa"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 310,
+        "db_MUNICIPIO": "Tinjaca"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 311,
+        "db_MUNICIPIO": "Tipacoque"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 313,
+        "db_MUNICIPIO": "Toca"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 316,
+        "db_MUNICIPIO": "Togui"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 319,
+        "db_MUNICIPIO": "Topaga"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 322,
+        "db_MUNICIPIO": "Tota"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Tunja"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 324,
+        "db_MUNICIPIO": "Tunungua"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 325,
+        "db_MUNICIPIO": "Turmeque"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 328,
+        "db_MUNICIPIO": "Tuta"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 331,
+        "db_MUNICIPIO": "Tutaza"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 334,
+        "db_MUNICIPIO": "Umbita"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 337,
+        "db_MUNICIPIO": "Ventaquemada"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 139,
+        "db_MUNICIPIO": "Villa De Leyva"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 340,
+        "db_MUNICIPIO": "Viracacha"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 346,
+        "db_MUNICIPIO": "Zetaquira"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": "067",
+        "db_MUNICIPIO": "Chiquinquira"
+    },
+    {
+        "db_Cod_DD": "07",
+        "db_DEPARTAMENTO": "Boyaca",
+        "db_Cod_MM": 181,
+        "db_MUNICIPIO": "Paipa"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Manizales"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": "034",
+        "db_MUNICIPIO": "Chinchina"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": "049",
+        "db_MUNICIPIO": "La Dorada"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Manizales"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": "058",
+        "db_MUNICIPIO": "Marmato"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": 103,
+        "db_MUNICIPIO": "Riosucio"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": 130,
+        "db_MUNICIPIO": "Villamaria"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": "004",
+        "db_MUNICIPIO": "Aguadas"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": "013",
+        "db_MUNICIPIO": "Aranzazu"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": "022",
+        "db_MUNICIPIO": "Belalcazar"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": "037",
+        "db_MUNICIPIO": "Filadelfia"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": "049",
+        "db_MUNICIPIO": "La Dorada"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": "052",
+        "db_MUNICIPIO": "La Merced"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Manizales"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Manizales"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": "055",
+        "db_MUNICIPIO": "Manzanares"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": "061",
+        "db_MUNICIPIO": "Marquetalia"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": "067",
+        "db_MUNICIPIO": "Marulanda"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": "078",
+        "db_MUNICIPIO": "Norcasia"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": "079",
+        "db_MUNICIPIO": "Pacora"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": "082",
+        "db_MUNICIPIO": "Palestina"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": "085",
+        "db_MUNICIPIO": "Pensilvania"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": 106,
+        "db_MUNICIPIO": "Risaralda"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": 109,
+        "db_MUNICIPIO": "Salamina"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": 115,
+        "db_MUNICIPIO": "Samana"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": 115,
+        "db_MUNICIPIO": "Samana"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": 120,
+        "db_MUNICIPIO": "San Jose"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": 127,
+        "db_MUNICIPIO": "Victoria"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": 133,
+        "db_MUNICIPIO": "Viterbo"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": "007",
+        "db_MUNICIPIO": "Anserma"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": "076",
+        "db_MUNICIPIO": "Neira"
+    },
+    {
+        "db_Cod_DD": "09",
+        "db_DEPARTAMENTO": "Caldas",
+        "db_Cod_MM": 124,
+        "db_MUNICIPIO": "Supia"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "007",
+        "db_MUNICIPIO": "Bolivar"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "010",
+        "db_MUNICIPIO": "Buenos Aires"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "025",
+        "db_MUNICIPIO": "El Tambo"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Popayan"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Popayan"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "076",
+        "db_MUNICIPIO": "Santander De Quilichao"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "004",
+        "db_MUNICIPIO": "Almaguer"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "005",
+        "db_MUNICIPIO": "Argelia"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "006",
+        "db_MUNICIPIO": "Balboa"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "016",
+        "db_MUNICIPIO": "Caldono"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "019",
+        "db_MUNICIPIO": "Caloto"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "022",
+        "db_MUNICIPIO": "Corinto"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "027",
+        "db_MUNICIPIO": "Florencia"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "029",
+        "db_MUNICIPIO": "Guachene"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "031",
+        "db_MUNICIPIO": "Inza"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "034",
+        "db_MUNICIPIO": "Jambalo"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "037",
+        "db_MUNICIPIO": "La Sierra"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "040",
+        "db_MUNICIPIO": "La Vega"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "046",
+        "db_MUNICIPIO": "Mercaderes"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "049",
+        "db_MUNICIPIO": "Miranda"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "052",
+        "db_MUNICIPIO": "Morales"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "053",
+        "db_MUNICIPIO": "Padilla"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "055",
+        "db_MUNICIPIO": "Paez"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "058",
+        "db_MUNICIPIO": "Patia"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "060",
+        "db_MUNICIPIO": "Piamonte"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "061",
+        "db_MUNICIPIO": "Piendamo"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Popayan"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Popayan"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "067",
+        "db_MUNICIPIO": "Purace Coconuco"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "070",
+        "db_MUNICIPIO": "Rosas"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "073",
+        "db_MUNICIPIO": "San Sebastian"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "079",
+        "db_MUNICIPIO": "Santa Rosa"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "082",
+        "db_MUNICIPIO": "Silvia"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "085",
+        "db_MUNICIPIO": "Sotara"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "087",
+        "db_MUNICIPIO": "Suarez"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "086",
+        "db_MUNICIPIO": "Sucre"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "094",
+        "db_MUNICIPIO": "Toribio"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "097",
+        "db_MUNICIPIO": "Totoro"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "097",
+        "db_MUNICIPIO": "Totoro"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "098",
+        "db_MUNICIPIO": "Villarica"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "013",
+        "db_MUNICIPIO": "Cajibio"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "028",
+        "db_MUNICIPIO": "Guapi"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "043",
+        "db_MUNICIPIO": "Lopez De Micay"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "064",
+        "db_MUNICIPIO": "Puerto Tejada"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "088",
+        "db_MUNICIPIO": "Timbio"
+    },
+    {
+        "db_Cod_DD": 11,
+        "db_DEPARTAMENTO": "Cauca",
+        "db_Cod_MM": "091",
+        "db_MUNICIPIO": "Timbiqui"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Valledupar"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Valledupar"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": "075",
+        "db_MUNICIPIO": "Aguachica"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 150,
+        "db_MUNICIPIO": "Codazzi"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 170,
+        "db_MUNICIPIO": "Astrea"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 180,
+        "db_MUNICIPIO": "Becerril"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 375,
+        "db_MUNICIPIO": "Chiriguana"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 415,
+        "db_MUNICIPIO": "El Paso"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 415,
+        "db_MUNICIPIO": "El Paso"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 450,
+        "db_MUNICIPIO": "Gamarra"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 525,
+        "db_MUNICIPIO": "Gonzalez"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 600,
+        "db_MUNICIPIO": "La Gloria"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 825,
+        "db_MUNICIPIO": "La Paz"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 625,
+        "db_MUNICIPIO": "Manaure Balcon Del Cesar"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 650,
+        "db_MUNICIPIO": "Pailitas"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 700,
+        "db_MUNICIPIO": "Pelaya"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 720,
+        "db_MUNICIPIO": "Pueblo Bello"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 720,
+        "db_MUNICIPIO": "Pueblo Bello"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 750,
+        "db_MUNICIPIO": "Rio De Oro"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 800,
+        "db_MUNICIPIO": "San Alberto"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 850,
+        "db_MUNICIPIO": "San Diego"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 875,
+        "db_MUNICIPIO": "San Martin"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 900,
+        "db_MUNICIPIO": "Tamalameque"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Valledupar"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Valledupar"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 200,
+        "db_MUNICIPIO": "Bosconia"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 300,
+        "db_MUNICIPIO": "Chimichagua"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 225,
+        "db_MUNICIPIO": "Curumani"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 410,
+        "db_MUNICIPIO": "El Copey"
+    },
+    {
+        "db_Cod_DD": 12,
+        "db_DEPARTAMENTO": "Cesar",
+        "db_Cod_MM": 608,
+        "db_MUNICIPIO": "La Jagua De Ibirico"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Monteria"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "010",
+        "db_MUNICIPIO": "Cerete"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "019",
+        "db_MUNICIPIO": "Chinu"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Monteria"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "028",
+        "db_MUNICIPIO": "Planeta Rica"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "037",
+        "db_MUNICIPIO": "Sahagun"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "007",
+        "db_MUNICIPIO": "Buenavista"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "016",
+        "db_MUNICIPIO": "Chima"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "014",
+        "db_MUNICIPIO": "Cotorra"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "020",
+        "db_MUNICIPIO": "La Apartada"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "023",
+        "db_MUNICIPIO": "Los Cordobas"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "024",
+        "db_MUNICIPIO": "Momil"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Monteria"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Monteria"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "031",
+        "db_MUNICIPIO": "Pueblo Nuevo"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "033",
+        "db_MUNICIPIO": "Puerto Escondido"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "032",
+        "db_MUNICIPIO": "Puerto Libertador"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "034",
+        "db_MUNICIPIO": "Purisima"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "040",
+        "db_MUNICIPIO": "San Andres De Sotavento"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "043",
+        "db_MUNICIPIO": "San Antero"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "046",
+        "db_MUNICIPIO": "San Bernardo Del Viento"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "049",
+        "db_MUNICIPIO": "San Carlos"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "052",
+        "db_MUNICIPIO": "San Jose De Ure"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "055",
+        "db_MUNICIPIO": "San Pelayo"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "060",
+        "db_MUNICIPIO": "Tuchin"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "061",
+        "db_MUNICIPIO": "Valencia"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "004",
+        "db_MUNICIPIO": "Ayapel"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "009",
+        "db_MUNICIPIO": "Canalete"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "013",
+        "db_MUNICIPIO": "Cienaga De Oro"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "022",
+        "db_MUNICIPIO": "Lorica"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "025",
+        "db_MUNICIPIO": "Montelibano"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "027",
+        "db_MUNICIPIO": "Moñitos"
+    },
+    {
+        "db_Cod_DD": 13,
+        "db_DEPARTAMENTO": "Cordoba",
+        "db_Cod_MM": "058",
+        "db_MUNICIPIO": "Tierralta"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "055",
+        "db_MUNICIPIO": "Chia"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "094",
+        "db_MUNICIPIO": "Fusagasuga"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Girardot"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 247,
+        "db_MUNICIPIO": "Soacha"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "004",
+        "db_MUNICIPIO": "Agua De Dios"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "007",
+        "db_MUNICIPIO": "Alban"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "010",
+        "db_MUNICIPIO": "Anapoima"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "013",
+        "db_MUNICIPIO": "Anolaima"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 217,
+        "db_MUNICIPIO": "Apulo"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "016",
+        "db_MUNICIPIO": "Arbelaez"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "019",
+        "db_MUNICIPIO": "Beltran"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "022",
+        "db_MUNICIPIO": "Bituima"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "025",
+        "db_MUNICIPIO": "Bojaca"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "029",
+        "db_MUNICIPIO": "Cabrera"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "030",
+        "db_MUNICIPIO": "Cachipay"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "031",
+        "db_MUNICIPIO": "Cajica"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "034",
+        "db_MUNICIPIO": "Caparrapi"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "037",
+        "db_MUNICIPIO": "Caqueza"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "040",
+        "db_MUNICIPIO": "Carmen De Carupa"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "052",
+        "db_MUNICIPIO": "Chaguani"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "058",
+        "db_MUNICIPIO": "Chipaque"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "061",
+        "db_MUNICIPIO": "Choachi"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "064",
+        "db_MUNICIPIO": "Choconta"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "043",
+        "db_MUNICIPIO": "Cogua"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "049",
+        "db_MUNICIPIO": "Cucunuba"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "067",
+        "db_MUNICIPIO": "El Colegio"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "070",
+        "db_MUNICIPIO": "El Penon"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "072",
+        "db_MUNICIPIO": "El Rosal"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "079",
+        "db_MUNICIPIO": "Fomeque"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "085",
+        "db_MUNICIPIO": "Fosca"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "091",
+        "db_MUNICIPIO": "Fuquene"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "097",
+        "db_MUNICIPIO": "Gachala"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 100,
+        "db_MUNICIPIO": "Gachancipa"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 103,
+        "db_MUNICIPIO": "Gacheta"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 106,
+        "db_MUNICIPIO": "Gama"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 132,
+        "db_MUNICIPIO": "Granada"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 112,
+        "db_MUNICIPIO": "Guacheta"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 115,
+        "db_MUNICIPIO": "Guaduas"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 118,
+        "db_MUNICIPIO": "Guasca"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 121,
+        "db_MUNICIPIO": "Guataqui"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 124,
+        "db_MUNICIPIO": "Guatavita"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 127,
+        "db_MUNICIPIO": "Guayabal De Siquima"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 130,
+        "db_MUNICIPIO": "Gutierrez"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 133,
+        "db_MUNICIPIO": "Jerusalen"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 136,
+        "db_MUNICIPIO": "Junin"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 142,
+        "db_MUNICIPIO": "La Mesa"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 145,
+        "db_MUNICIPIO": "La Palma"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 148,
+        "db_MUNICIPIO": "La Pena"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 151,
+        "db_MUNICIPIO": "La Vega"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 154,
+        "db_MUNICIPIO": "Lenguazaque"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 157,
+        "db_MUNICIPIO": "Macheta"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 166,
+        "db_MUNICIPIO": "Medina"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 172,
+        "db_MUNICIPIO": "Nariño"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 175,
+        "db_MUNICIPIO": "Nemocon"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 178,
+        "db_MUNICIPIO": "Nilo"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 181,
+        "db_MUNICIPIO": "Nimaima"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 184,
+        "db_MUNICIPIO": "Nocaima"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 193,
+        "db_MUNICIPIO": "Paime"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 196,
+        "db_MUNICIPIO": "Pandi"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 198,
+        "db_MUNICIPIO": "Paratebueno"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 199,
+        "db_MUNICIPIO": "Pasca"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 202,
+        "db_MUNICIPIO": "Puerto Salgar"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 205,
+        "db_MUNICIPIO": "Puli"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 208,
+        "db_MUNICIPIO": "Quebrada Negra"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 211,
+        "db_MUNICIPIO": "Quetame"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 214,
+        "db_MUNICIPIO": "Quipile"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 220,
+        "db_MUNICIPIO": "San Antonio Del Tequendama"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 223,
+        "db_MUNICIPIO": "San Bernardo"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 226,
+        "db_MUNICIPIO": "San Cayetano"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 229,
+        "db_MUNICIPIO": "San Francisco"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 232,
+        "db_MUNICIPIO": "San Juan De Rioseco"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 235,
+        "db_MUNICIPIO": "Sasaima"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 238,
+        "db_MUNICIPIO": "Sesquile"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 239,
+        "db_MUNICIPIO": "Sibate"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 241,
+        "db_MUNICIPIO": "Silvania"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 244,
+        "db_MUNICIPIO": "Simijaca"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 247,
+        "db_MUNICIPIO": "Soacha"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 247,
+        "db_MUNICIPIO": "Soacha"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 247,
+        "db_MUNICIPIO": "Soacha"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 247,
+        "db_MUNICIPIO": "Soacha"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 247,
+        "db_MUNICIPIO": "Soacha"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 250,
+        "db_MUNICIPIO": "Sopo"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 256,
+        "db_MUNICIPIO": "Subachoque"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 259,
+        "db_MUNICIPIO": "Suesca"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 262,
+        "db_MUNICIPIO": "Supata"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 265,
+        "db_MUNICIPIO": "Susa"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 268,
+        "db_MUNICIPIO": "Sutatausa"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 271,
+        "db_MUNICIPIO": "Tabio"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 274,
+        "db_MUNICIPIO": "Tausa"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 277,
+        "db_MUNICIPIO": "Tena"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 280,
+        "db_MUNICIPIO": "Tenjo"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 283,
+        "db_MUNICIPIO": "Tibacuy"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 286,
+        "db_MUNICIPIO": "Tibirita"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 289,
+        "db_MUNICIPIO": "Tocaima"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 295,
+        "db_MUNICIPIO": "Topaipi"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 298,
+        "db_MUNICIPIO": "Ubala"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 301,
+        "db_MUNICIPIO": "Ubaque"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 304,
+        "db_MUNICIPIO": "Ubate"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 307,
+        "db_MUNICIPIO": "Une"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 316,
+        "db_MUNICIPIO": "Utica"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 318,
+        "db_MUNICIPIO": "Venecia"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 319,
+        "db_MUNICIPIO": "Vergara"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 322,
+        "db_MUNICIPIO": "Viani"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 323,
+        "db_MUNICIPIO": "Villagomez"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 325,
+        "db_MUNICIPIO": "Villapinzon"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 331,
+        "db_MUNICIPIO": "Viota"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 334,
+        "db_MUNICIPIO": "Yacopi"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 337,
+        "db_MUNICIPIO": "Zipacon"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "046",
+        "db_MUNICIPIO": "Cota"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "076",
+        "db_MUNICIPIO": "Facatativa"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "088",
+        "db_MUNICIPIO": "Funza"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 128,
+        "db_MUNICIPIO": "Guayabetal"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 139,
+        "db_MUNICIPIO": "La Calera"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 160,
+        "db_MUNICIPIO": "Madrid"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 163,
+        "db_MUNICIPIO": "Manta"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 169,
+        "db_MUNICIPIO": "Mosquera"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 190,
+        "db_MUNICIPIO": "Pacho"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 218,
+        "db_MUNICIPIO": "Ricaurte"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 292,
+        "db_MUNICIPIO": "Tocancipa"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 328,
+        "db_MUNICIPIO": "Villeta"
+    },
+    {
+        "db_Cod_DD": 15,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": 340,
+        "db_MUNICIPIO": "Zipaquira"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 16,
+        "db_DEPARTAMENTO": "Cundinamarca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bogotá D.C"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Quibdo"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "006",
+        "db_MUNICIPIO": "Alto Baudo"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "010",
+        "db_MUNICIPIO": "Bajo Baudo"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Quibdo"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "002",
+        "db_MUNICIPIO": "Atrato"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "007",
+        "db_MUNICIPIO": "Bagado"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "017",
+        "db_MUNICIPIO": "Canton De San Pablo"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "014",
+        "db_MUNICIPIO": "Certegui"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "013",
+        "db_MUNICIPIO": "Condoto"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "016",
+        "db_MUNICIPIO": "El Carmen"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "019",
+        "db_MUNICIPIO": "Istmina"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "025",
+        "db_MUNICIPIO": "Lloro"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "028",
+        "db_MUNICIPIO": "Novita"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Quibdó"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "032",
+        "db_MUNICIPIO": "Rio Iro"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "035",
+        "db_MUNICIPIO": "Rio Quito"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "037",
+        "db_MUNICIPIO": "San Jose Del Palmar"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "043",
+        "db_MUNICIPIO": "Tado"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "060",
+        "db_MUNICIPIO": "Union Panamericana Las Animas"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "004",
+        "db_MUNICIPIO": "Acandi"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "008",
+        "db_MUNICIPIO": "Bahia Solano"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "082",
+        "db_MUNICIPIO": "Belen De Bajira"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "011",
+        "db_MUNICIPIO": "Bojaya"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "015",
+        "db_MUNICIPIO": "Carmen Del Darien"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "022",
+        "db_MUNICIPIO": "Jurado"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "038",
+        "db_MUNICIPIO": "Litoral De San Juan"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "012",
+        "db_MUNICIPIO": "Medio Atrato"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "026",
+        "db_MUNICIPIO": "Medio Baudo"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "027",
+        "db_MUNICIPIO": "Medio San Juan"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "031",
+        "db_MUNICIPIO": "Nuqui"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "034",
+        "db_MUNICIPIO": "Riosucio"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "040",
+        "db_MUNICIPIO": "Sipi"
+    },
+    {
+        "db_Cod_DD": 17,
+        "db_DEPARTAMENTO": "Choco",
+        "db_Cod_MM": "048",
+        "db_MUNICIPIO": "Unguia"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Neiva"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Neiva"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "004",
+        "db_MUNICIPIO": "Acevedo"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "007",
+        "db_MUNICIPIO": "Agrado"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "010",
+        "db_MUNICIPIO": "Aipe"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "013",
+        "db_MUNICIPIO": "Algeciras"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "016",
+        "db_MUNICIPIO": "Altamira"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "019",
+        "db_MUNICIPIO": "Baraya"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "028",
+        "db_MUNICIPIO": "Colombia"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "031",
+        "db_MUNICIPIO": "Elias"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "037",
+        "db_MUNICIPIO": "Gigante"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "040",
+        "db_MUNICIPIO": "Guadalupe"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "043",
+        "db_MUNICIPIO": "Hobo"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "046",
+        "db_MUNICIPIO": "Iquira"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "044",
+        "db_MUNICIPIO": "Isnos"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "047",
+        "db_MUNICIPIO": "La Argentina"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "050",
+        "db_MUNICIPIO": "Nataga"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Neiva"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Neiva"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "051",
+        "db_MUNICIPIO": "Oporapa"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "052",
+        "db_MUNICIPIO": "Paicol"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "055",
+        "db_MUNICIPIO": "Palermo"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "056",
+        "db_MUNICIPIO": "Palestina"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "058",
+        "db_MUNICIPIO": "Pital"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "061",
+        "db_MUNICIPIO": "Pitalito"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "064",
+        "db_MUNICIPIO": "Rivera"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "067",
+        "db_MUNICIPIO": "Saladoblanco"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "074",
+        "db_MUNICIPIO": "Santa Maria"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "076",
+        "db_MUNICIPIO": "Suaza"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "079",
+        "db_MUNICIPIO": "Tarqui"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "085",
+        "db_MUNICIPIO": "Teruel"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "025",
+        "db_MUNICIPIO": "Tesalia"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "088",
+        "db_MUNICIPIO": "Timana"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "091",
+        "db_MUNICIPIO": "Villavieja"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "094",
+        "db_MUNICIPIO": "Yaguara"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "022",
+        "db_MUNICIPIO": "Campoalegre"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "034",
+        "db_MUNICIPIO": "Garzon"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "049",
+        "db_MUNICIPIO": "La Plata"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "061",
+        "db_MUNICIPIO": "Pitalito"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "070",
+        "db_MUNICIPIO": "San Agustin"
+    },
+    {
+        "db_Cod_DD": 19,
+        "db_DEPARTAMENTO": "Huila",
+        "db_Cod_MM": "082",
+        "db_MUNICIPIO": "Tello"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Santa Marta"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "016",
+        "db_MUNICIPIO": "Cienaga"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Santa Marta"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "008",
+        "db_MUNICIPIO": "Algarrobo"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "012",
+        "db_MUNICIPIO": "Ariguani"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "013",
+        "db_MUNICIPIO": "Cerro De San Antonio"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "015",
+        "db_MUNICIPIO": "Chibolo"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "016",
+        "db_MUNICIPIO": "Cienaga"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "020",
+        "db_MUNICIPIO": "Concordia"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "028",
+        "db_MUNICIPIO": "El Pinon"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "030",
+        "db_MUNICIPIO": "El Reten"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "040",
+        "db_MUNICIPIO": "Guamal"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "042",
+        "db_MUNICIPIO": "Nueva Granada"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "046",
+        "db_MUNICIPIO": "Pedraza"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "048",
+        "db_MUNICIPIO": "Pijino Del Carmen"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "055",
+        "db_MUNICIPIO": "Pueblo Viejo"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "058",
+        "db_MUNICIPIO": "Remolino"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "060",
+        "db_MUNICIPIO": "Sabanas De San Angel"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "067",
+        "db_MUNICIPIO": "Salamina"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "070",
+        "db_MUNICIPIO": "San Sebastian"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "073",
+        "db_MUNICIPIO": "San Zenon"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "076",
+        "db_MUNICIPIO": "Santa Ana"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "078",
+        "db_MUNICIPIO": "Santa Barbara De Pinto"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Santa Marta"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Santa Marta"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "079",
+        "db_MUNICIPIO": "Sitio Nuevo"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "085",
+        "db_MUNICIPIO": "Tenerife"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "090",
+        "db_MUNICIPIO": "Zapayan"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "095",
+        "db_MUNICIPIO": "Zona Bananera"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "095",
+        "db_MUNICIPIO": "Zona Bananera"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "010",
+        "db_MUNICIPIO": "Aracataca"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "025",
+        "db_MUNICIPIO": "El Banco"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "031",
+        "db_MUNICIPIO": "Fundacion"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "049",
+        "db_MUNICIPIO": "Pivijay"
+    },
+    {
+        "db_Cod_DD": 21,
+        "db_DEPARTAMENTO": "Magdalena",
+        "db_Cod_MM": "052",
+        "db_MUNICIPIO": "Plato"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Pasto"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Pasto"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "067",
+        "db_MUNICIPIO": "Ipiales"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": 139,
+        "db_MUNICIPIO": "Tumaco"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "004",
+        "db_MUNICIPIO": "Alban"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "007",
+        "db_MUNICIPIO": "Aldana"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "010",
+        "db_MUNICIPIO": "Ancuya"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "013",
+        "db_MUNICIPIO": "Arboleda"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "017",
+        "db_MUNICIPIO": "Belén"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "019",
+        "db_MUNICIPIO": "Buesaco"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "038",
+        "db_MUNICIPIO": "Chachagui"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "022",
+        "db_MUNICIPIO": "Colon"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "025",
+        "db_MUNICIPIO": "Consaca"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "028",
+        "db_MUNICIPIO": "Contadero"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "031",
+        "db_MUNICIPIO": "Cordoba"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "034",
+        "db_MUNICIPIO": "Cuaspud"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "037",
+        "db_MUNICIPIO": "Cumbal"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "044",
+        "db_MUNICIPIO": "El Penol"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "040",
+        "db_MUNICIPIO": "El Rosario"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "043",
+        "db_MUNICIPIO": "El Tablon"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "046",
+        "db_MUNICIPIO": "El Tambo"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "047",
+        "db_MUNICIPIO": "Francisco Pizarro"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "049",
+        "db_MUNICIPIO": "Funes"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "052",
+        "db_MUNICIPIO": "Guachucal"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "055",
+        "db_MUNICIPIO": "Guaitarilla"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "058",
+        "db_MUNICIPIO": "Gualmatan"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "061",
+        "db_MUNICIPIO": "Iles"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "064",
+        "db_MUNICIPIO": "Imues"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "067",
+        "db_MUNICIPIO": "Ipiales"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "073",
+        "db_MUNICIPIO": "La Cruz"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "077",
+        "db_MUNICIPIO": "La Llanada"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "079",
+        "db_MUNICIPIO": "La Union"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "080",
+        "db_MUNICIPIO": "Leiva"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "082",
+        "db_MUNICIPIO": "Linares"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "085",
+        "db_MUNICIPIO": "Los Andes"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "091",
+        "db_MUNICIPIO": "Mallama"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": 190,
+        "db_MUNICIPIO": "Narino"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "097",
+        "db_MUNICIPIO": "Ospina"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Pasto"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "098",
+        "db_MUNICIPIO": "Policarpa"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": 100,
+        "db_MUNICIPIO": "Potosi"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": 101,
+        "db_MUNICIPIO": "Providencia"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": 103,
+        "db_MUNICIPIO": "Puerres"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": 106,
+        "db_MUNICIPIO": "Pupiales"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": 120,
+        "db_MUNICIPIO": "San Bernardo"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": 121,
+        "db_MUNICIPIO": "San Lorenzo"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": 124,
+        "db_MUNICIPIO": "San Pablo"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": 123,
+        "db_MUNICIPIO": "San Pedro De Cartago"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": 118,
+        "db_MUNICIPIO": "Sandona"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": 127,
+        "db_MUNICIPIO": "Santa Cruz"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": 130,
+        "db_MUNICIPIO": "Sapuyes"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": 133,
+        "db_MUNICIPIO": "Taminango"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": 136,
+        "db_MUNICIPIO": "Tangua"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": 139,
+        "db_MUNICIPIO": "Tumaco"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": 139,
+        "db_MUNICIPIO": "Tumaco"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": 145,
+        "db_MUNICIPIO": "Yacuanquer"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "016",
+        "db_MUNICIPIO": "Barbacoas"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "039",
+        "db_MUNICIPIO": "Cumbitarra"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "041",
+        "db_MUNICIPIO": "El Charco"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "076",
+        "db_MUNICIPIO": "La Florida"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "078",
+        "db_MUNICIPIO": "La Tola"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "088",
+        "db_MUNICIPIO": "Magui"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "094",
+        "db_MUNICIPIO": "Mosquera"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": "095",
+        "db_MUNICIPIO": "Olaya Herrera"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": 109,
+        "db_MUNICIPIO": "Ricaurte"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": 112,
+        "db_MUNICIPIO": "Roberto Payan"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": 115,
+        "db_MUNICIPIO": "Samaniego"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": 125,
+        "db_MUNICIPIO": "Santa Barbara Iscuande"
+    },
+    {
+        "db_Cod_DD": 23,
+        "db_DEPARTAMENTO": "Nariño",
+        "db_Cod_MM": 142,
+        "db_MUNICIPIO": "Tuquerres"
+    },
+    {
+        "db_Cod_DD": 24,
+        "db_DEPARTAMENTO": "Risaralda",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Pereira"
+    },
+    {
+        "db_Cod_DD": 24,
+        "db_DEPARTAMENTO": "Risaralda",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Pereira"
+    },
+    {
+        "db_Cod_DD": 24,
+        "db_DEPARTAMENTO": "Risaralda",
+        "db_Cod_MM": "025",
+        "db_MUNICIPIO": "Dosquebradas"
+    },
+    {
+        "db_Cod_DD": 24,
+        "db_DEPARTAMENTO": "Risaralda",
+        "db_Cod_MM": "008",
+        "db_MUNICIPIO": "Apia"
+    },
+    {
+        "db_Cod_DD": 24,
+        "db_DEPARTAMENTO": "Risaralda",
+        "db_Cod_MM": "013",
+        "db_MUNICIPIO": "Balboa"
+    },
+    {
+        "db_Cod_DD": 24,
+        "db_DEPARTAMENTO": "Risaralda",
+        "db_Cod_MM": "021",
+        "db_MUNICIPIO": "Belen De Umbria"
+    },
+    {
+        "db_Cod_DD": 24,
+        "db_DEPARTAMENTO": "Risaralda",
+        "db_Cod_MM": "029",
+        "db_MUNICIPIO": "Guatica"
+    },
+    {
+        "db_Cod_DD": 24,
+        "db_DEPARTAMENTO": "Risaralda",
+        "db_Cod_MM": "038",
+        "db_MUNICIPIO": "La Celia"
+    },
+    {
+        "db_Cod_DD": 24,
+        "db_DEPARTAMENTO": "Risaralda",
+        "db_Cod_MM": "054",
+        "db_MUNICIPIO": "Marsella"
+    },
+    {
+        "db_Cod_DD": 24,
+        "db_DEPARTAMENTO": "Risaralda",
+        "db_Cod_MM": "062",
+        "db_MUNICIPIO": "Mistrato"
+    },
+    {
+        "db_Cod_DD": 24,
+        "db_DEPARTAMENTO": "Risaralda",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Pereira"
+    },
+    {
+        "db_Cod_DD": 24,
+        "db_DEPARTAMENTO": "Risaralda",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Pereira"
+    },
+    {
+        "db_Cod_DD": 24,
+        "db_DEPARTAMENTO": "Risaralda",
+        "db_Cod_MM": "078",
+        "db_MUNICIPIO": "Quinchia"
+    },
+    {
+        "db_Cod_DD": 24,
+        "db_DEPARTAMENTO": "Risaralda",
+        "db_Cod_MM": "094",
+        "db_MUNICIPIO": "Santuario"
+    },
+    {
+        "db_Cod_DD": 24,
+        "db_DEPARTAMENTO": "Risaralda",
+        "db_Cod_MM": "046",
+        "db_MUNICIPIO": "La Virginia"
+    },
+    {
+        "db_Cod_DD": 24,
+        "db_DEPARTAMENTO": "Risaralda",
+        "db_Cod_MM": "070",
+        "db_MUNICIPIO": "Pueblo Rico"
+    },
+    {
+        "db_Cod_DD": 24,
+        "db_DEPARTAMENTO": "Risaralda",
+        "db_Cod_MM": "086",
+        "db_MUNICIPIO": "Santa Rosa De Cabal"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Cucuta"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Cucuta"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "004",
+        "db_MUNICIPIO": "Abrego"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": 100,
+        "db_MUNICIPIO": "Villa Del Rosario"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "007",
+        "db_MUNICIPIO": "Arboledas"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "010",
+        "db_MUNICIPIO": "Bochalema"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "013",
+        "db_MUNICIPIO": "Bucarasica"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "019",
+        "db_MUNICIPIO": "Cachira"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "016",
+        "db_MUNICIPIO": "Cacota"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "028",
+        "db_MUNICIPIO": "Chinacota"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "031",
+        "db_MUNICIPIO": "Chitaga"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "022",
+        "db_MUNICIPIO": "Convencion"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Cucuta"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Cucuta"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "025",
+        "db_MUNICIPIO": "Cucutilla"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "034",
+        "db_MUNICIPIO": "Durania"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "037",
+        "db_MUNICIPIO": "El Carmen"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "036",
+        "db_MUNICIPIO": "El Tarra"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "043",
+        "db_MUNICIPIO": "Hacari"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "046",
+        "db_MUNICIPIO": "Herran"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "051",
+        "db_MUNICIPIO": "La Esperanza"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "052",
+        "db_MUNICIPIO": "La Playa"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "049",
+        "db_MUNICIPIO": "Labateca"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "055",
+        "db_MUNICIPIO": "Lourdes"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "058",
+        "db_MUNICIPIO": "Mutiscua"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "061",
+        "db_MUNICIPIO": "Ocaña"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "067",
+        "db_MUNICIPIO": "Pamplonita"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "070",
+        "db_MUNICIPIO": "Ragonvalia"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "073",
+        "db_MUNICIPIO": "Salazar"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "076",
+        "db_MUNICIPIO": "San Calixto"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "079",
+        "db_MUNICIPIO": "San Cayetano"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "082",
+        "db_MUNICIPIO": "Santiago"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "085",
+        "db_MUNICIPIO": "Sardinata"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "088",
+        "db_MUNICIPIO": "Silos"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "091",
+        "db_MUNICIPIO": "Teorama"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "094",
+        "db_MUNICIPIO": "Toledo"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "097",
+        "db_MUNICIPIO": "Villa Caro"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": 100,
+        "db_MUNICIPIO": "Villa Del Rosario"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "038",
+        "db_MUNICIPIO": "El Zulia"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "040",
+        "db_MUNICIPIO": "Gramalote"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "054",
+        "db_MUNICIPIO": "Los Patios"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "061",
+        "db_MUNICIPIO": "Ocaña"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "064",
+        "db_MUNICIPIO": "Pamplona"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "069",
+        "db_MUNICIPIO": "Puerto Santander"
+    },
+    {
+        "db_Cod_DD": 25,
+        "db_DEPARTAMENTO": "Norte de Santander",
+        "db_Cod_MM": "093",
+        "db_MUNICIPIO": "Tibu"
+    },
+    {
+        "db_Cod_DD": 26,
+        "db_DEPARTAMENTO": "Quindio",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Armenia"
+    },
+    {
+        "db_Cod_DD": 26,
+        "db_DEPARTAMENTO": "Quindio",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Armenia"
+    },
+    {
+        "db_Cod_DD": 26,
+        "db_DEPARTAMENTO": "Quindio",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Armenia"
+    },
+    {
+        "db_Cod_DD": 26,
+        "db_DEPARTAMENTO": "Quindio",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Armenia"
+    },
+    {
+        "db_Cod_DD": 26,
+        "db_DEPARTAMENTO": "Quindio",
+        "db_Cod_MM": "005",
+        "db_MUNICIPIO": "Buenavista"
+    },
+    {
+        "db_Cod_DD": 26,
+        "db_DEPARTAMENTO": "Quindio",
+        "db_Cod_MM": "025",
+        "db_MUNICIPIO": "Cordoba"
+    },
+    {
+        "db_Cod_DD": 26,
+        "db_DEPARTAMENTO": "Quindio",
+        "db_Cod_MM": "030",
+        "db_MUNICIPIO": "Filandia"
+    },
+    {
+        "db_Cod_DD": 26,
+        "db_DEPARTAMENTO": "Quindio",
+        "db_Cod_MM": "040",
+        "db_MUNICIPIO": "Genova"
+    },
+    {
+        "db_Cod_DD": 26,
+        "db_DEPARTAMENTO": "Quindio",
+        "db_Cod_MM": "070",
+        "db_MUNICIPIO": "Pijao"
+    },
+    {
+        "db_Cod_DD": 26,
+        "db_DEPARTAMENTO": "Quindio",
+        "db_Cod_MM": "080",
+        "db_MUNICIPIO": "Quimbaya"
+    },
+    {
+        "db_Cod_DD": 26,
+        "db_DEPARTAMENTO": "Quindio",
+        "db_Cod_MM": "090",
+        "db_MUNICIPIO": "Salento"
+    },
+    {
+        "db_Cod_DD": 26,
+        "db_DEPARTAMENTO": "Quindio",
+        "db_Cod_MM": "010",
+        "db_MUNICIPIO": "Calarca"
+    },
+    {
+        "db_Cod_DD": 26,
+        "db_DEPARTAMENTO": "Quindio",
+        "db_Cod_MM": "020",
+        "db_MUNICIPIO": "Circasia"
+    },
+    {
+        "db_Cod_DD": 26,
+        "db_DEPARTAMENTO": "Quindio",
+        "db_Cod_MM": "050",
+        "db_MUNICIPIO": "La Tebaida"
+    },
+    {
+        "db_Cod_DD": 26,
+        "db_DEPARTAMENTO": "Quindio",
+        "db_Cod_MM": "060",
+        "db_MUNICIPIO": "Montenegro"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bucaramanga"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bucaramanga"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "019",
+        "db_MUNICIPIO": "Barrancabermeja"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "082",
+        "db_MUNICIPIO": "Floridablanca"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "091",
+        "db_MUNICIPIO": "Giron"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 160,
+        "db_MUNICIPIO": "Piedecuesta"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "004",
+        "db_MUNICIPIO": "Aguada"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "007",
+        "db_MUNICIPIO": "Albania"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "010",
+        "db_MUNICIPIO": "Aratoca"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "016",
+        "db_MUNICIPIO": "Barichara"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "019",
+        "db_MUNICIPIO": "Barrancabermeja"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "022",
+        "db_MUNICIPIO": "Betulia"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "025",
+        "db_MUNICIPIO": "Bolivar"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bucaramanga"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Bucaramanga"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "028",
+        "db_MUNICIPIO": "Cabrera"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "031",
+        "db_MUNICIPIO": "California"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "034",
+        "db_MUNICIPIO": "Capitanejo"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "037",
+        "db_MUNICIPIO": "Carcasi"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "040",
+        "db_MUNICIPIO": "Cepita"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "043",
+        "db_MUNICIPIO": "Cerrito"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "061",
+        "db_MUNICIPIO": "Charala"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "064",
+        "db_MUNICIPIO": "Charta"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "067",
+        "db_MUNICIPIO": "Chima"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "070",
+        "db_MUNICIPIO": "Chipata"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "046",
+        "db_MUNICIPIO": "Concepcion"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "049",
+        "db_MUNICIPIO": "Confines"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "052",
+        "db_MUNICIPIO": "Contratacion"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "055",
+        "db_MUNICIPIO": "Coromoro"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "058",
+        "db_MUNICIPIO": "Curiti"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "071",
+        "db_MUNICIPIO": "El Carmen De Chucuri"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "073",
+        "db_MUNICIPIO": "El Guacamayo"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "075",
+        "db_MUNICIPIO": "El Peñon"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "074",
+        "db_MUNICIPIO": "El Playon"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "076",
+        "db_MUNICIPIO": "Encino"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "079",
+        "db_MUNICIPIO": "Enciso"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "080",
+        "db_MUNICIPIO": "Florian"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "082",
+        "db_MUNICIPIO": "Floridablanca"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "085",
+        "db_MUNICIPIO": "Galan"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "088",
+        "db_MUNICIPIO": "Gambita"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "094",
+        "db_MUNICIPIO": "Guaca"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "097",
+        "db_MUNICIPIO": "Guadalupe"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 100,
+        "db_MUNICIPIO": "Guapota"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 103,
+        "db_MUNICIPIO": "Guavata"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 106,
+        "db_MUNICIPIO": "Guepsa"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 109,
+        "db_MUNICIPIO": "Hato"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 112,
+        "db_MUNICIPIO": "Jesus Maria"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 115,
+        "db_MUNICIPIO": "Jordan"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 119,
+        "db_MUNICIPIO": "La Belleza"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 118,
+        "db_MUNICIPIO": "La Paz"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 120,
+        "db_MUNICIPIO": "Landazuri"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 124,
+        "db_MUNICIPIO": "Los Santos"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 127,
+        "db_MUNICIPIO": "Macaravita"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 130,
+        "db_MUNICIPIO": "Malaga"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 133,
+        "db_MUNICIPIO": "Matanza"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 136,
+        "db_MUNICIPIO": "Mogotes"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 139,
+        "db_MUNICIPIO": "Molagavita"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 142,
+        "db_MUNICIPIO": "Ocamonte"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 145,
+        "db_MUNICIPIO": "Oiba"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 148,
+        "db_MUNICIPIO": "Onzaga"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 151,
+        "db_MUNICIPIO": "Palmar"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 154,
+        "db_MUNICIPIO": "Palmas Del Socorro"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 157,
+        "db_MUNICIPIO": "Paramo"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 163,
+        "db_MUNICIPIO": "Pinchote"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 166,
+        "db_MUNICIPIO": "Puente Nacional"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 167,
+        "db_MUNICIPIO": "Puerto Parra"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 169,
+        "db_MUNICIPIO": "Puerto Wilches"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 172,
+        "db_MUNICIPIO": "Rionegro"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 175,
+        "db_MUNICIPIO": "San Andres"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 178,
+        "db_MUNICIPIO": "San Benito"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 184,
+        "db_MUNICIPIO": "San Joaquin"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 187,
+        "db_MUNICIPIO": "San Jose De Miranda"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 190,
+        "db_MUNICIPIO": "San Miguel"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 193,
+        "db_MUNICIPIO": "San Vicente De Chucuri"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 195,
+        "db_MUNICIPIO": "Santa Barbara"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 194,
+        "db_MUNICIPIO": "Santa Helena Del Opon"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 196,
+        "db_MUNICIPIO": "Simacota"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 202,
+        "db_MUNICIPIO": "Suaita"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 205,
+        "db_MUNICIPIO": "Sucre"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 208,
+        "db_MUNICIPIO": "Surata"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 211,
+        "db_MUNICIPIO": "Tona"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 217,
+        "db_MUNICIPIO": "Valle De San Jose"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 220,
+        "db_MUNICIPIO": "Velez"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 219,
+        "db_MUNICIPIO": "Vetas"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 221,
+        "db_MUNICIPIO": "Villanueva"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 223,
+        "db_MUNICIPIO": "Zapatoca"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "013",
+        "db_MUNICIPIO": "Barbosa"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": "045",
+        "db_MUNICIPIO": "Cimitarra"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 121,
+        "db_MUNICIPIO": "Lebrija"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 174,
+        "db_MUNICIPIO": "Sabana De Torres"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 181,
+        "db_MUNICIPIO": "San Gil"
+    },
+    {
+        "db_Cod_DD": 27,
+        "db_DEPARTAMENTO": "Santander",
+        "db_Cod_MM": 199,
+        "db_MUNICIPIO": "Socorro"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": "040",
+        "db_MUNICIPIO": "Corozal"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": 220,
+        "db_MUNICIPIO": "San Onofre"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Sincelejo"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Sincelejo"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": "010",
+        "db_MUNICIPIO": "Buenavista"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": "020",
+        "db_MUNICIPIO": "Caimito"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": "045",
+        "db_MUNICIPIO": "Chalan"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": "030",
+        "db_MUNICIPIO": "Coloso"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": "041",
+        "db_MUNICIPIO": "Coveñas"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": "042",
+        "db_MUNICIPIO": "El Roble"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": "048",
+        "db_MUNICIPIO": "Galeras"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": "049",
+        "db_MUNICIPIO": "Guaranda"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": "050",
+        "db_MUNICIPIO": "La Union"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": "055",
+        "db_MUNICIPIO": "Los Palmitos"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": "060",
+        "db_MUNICIPIO": "Majagual"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": "080",
+        "db_MUNICIPIO": "Morroa"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": 100,
+        "db_MUNICIPIO": "Ovejas"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": 120,
+        "db_MUNICIPIO": "Palmito"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": 160,
+        "db_MUNICIPIO": "Sampues"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": 180,
+        "db_MUNICIPIO": "San Benito Abad"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": 190,
+        "db_MUNICIPIO": "San Juan De Betulia"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": 240,
+        "db_MUNICIPIO": "San Pedro"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Sincelejo"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": 280,
+        "db_MUNICIPIO": "Sucre"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": 320,
+        "db_MUNICIPIO": "Tolu Viejo"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": 200,
+        "db_MUNICIPIO": "San Marcos"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": 260,
+        "db_MUNICIPIO": "Since"
+    },
+    {
+        "db_Cod_DD": 28,
+        "db_DEPARTAMENTO": "Sucre",
+        "db_Cod_MM": 300,
+        "db_MUNICIPIO": "Tolu"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Ibague"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "046",
+        "db_MUNICIPIO": "Espinal"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Ibague"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "004",
+        "db_MUNICIPIO": "Alpujarra"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "007",
+        "db_MUNICIPIO": "Alvarado"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "010",
+        "db_MUNICIPIO": "Ambalema"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "013",
+        "db_MUNICIPIO": "Anzoategui"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "016",
+        "db_MUNICIPIO": "Armero"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "019",
+        "db_MUNICIPIO": "Ataco"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "022",
+        "db_MUNICIPIO": "Cajamarca"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "025",
+        "db_MUNICIPIO": "Carmen De Apicala"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "028",
+        "db_MUNICIPIO": "Casabianca"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "031",
+        "db_MUNICIPIO": "Coello"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "034",
+        "db_MUNICIPIO": "Coyaima"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "037",
+        "db_MUNICIPIO": "Cunday"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "043",
+        "db_MUNICIPIO": "Dolores"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "049",
+        "db_MUNICIPIO": "Falan"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "052",
+        "db_MUNICIPIO": "Flandes"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "061",
+        "db_MUNICIPIO": "Herveo"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Ibague"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Ibague"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Ibague"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "067",
+        "db_MUNICIPIO": "Icononzo"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "070",
+        "db_MUNICIPIO": "Lerida"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "080",
+        "db_MUNICIPIO": "Murillo"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "082",
+        "db_MUNICIPIO": "Natagaima"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "085",
+        "db_MUNICIPIO": "Ortega"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "087",
+        "db_MUNICIPIO": "Palocabildo"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "088",
+        "db_MUNICIPIO": "Piedras"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "089",
+        "db_MUNICIPIO": "Planadas"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "091",
+        "db_MUNICIPIO": "Prado"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "094",
+        "db_MUNICIPIO": "Purificacion"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "097",
+        "db_MUNICIPIO": "Rioblanco"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": 100,
+        "db_MUNICIPIO": "Roncesvalles"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": 103,
+        "db_MUNICIPIO": "Rovira"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": 105,
+        "db_MUNICIPIO": "Saldana"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": 106,
+        "db_MUNICIPIO": "San Antonio"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": 109,
+        "db_MUNICIPIO": "San Luis"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": 112,
+        "db_MUNICIPIO": "Santa Isabel"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": 115,
+        "db_MUNICIPIO": "Suarez"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": 118,
+        "db_MUNICIPIO": "Valle De San Juan"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": 121,
+        "db_MUNICIPIO": "Venadillo"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": 124,
+        "db_MUNICIPIO": "Villahermosa"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": 127,
+        "db_MUNICIPIO": "Villarrica"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "040",
+        "db_MUNICIPIO": "Chaparral"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "055",
+        "db_MUNICIPIO": "Fresno"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "058",
+        "db_MUNICIPIO": "Guamo"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "064",
+        "db_MUNICIPIO": "Honda"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "073",
+        "db_MUNICIPIO": "Libano"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "076",
+        "db_MUNICIPIO": "Mariquita"
+    },
+    {
+        "db_Cod_DD": 29,
+        "db_DEPARTAMENTO": "Tolima",
+        "db_Cod_MM": "079",
+        "db_MUNICIPIO": "Melgar"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Cali"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "019",
+        "db_MUNICIPIO": "Buenaventura"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "022",
+        "db_MUNICIPIO": "Buga"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Cali"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "034",
+        "db_MUNICIPIO": "Cartago"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "079",
+        "db_MUNICIPIO": "Palmira"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": 106,
+        "db_MUNICIPIO": "Tulua"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "004",
+        "db_MUNICIPIO": "Alcala"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "007",
+        "db_MUNICIPIO": "Andalucia"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "010",
+        "db_MUNICIPIO": "Anserma Nuevo"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "013",
+        "db_MUNICIPIO": "Argelia"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "016",
+        "db_MUNICIPIO": "Bolivar"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "019",
+        "db_MUNICIPIO": "Buenaventura"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "025",
+        "db_MUNICIPIO": "Buga La Grande"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Cali"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Cali"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Cali"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Cali"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Cali"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Cali"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Cali"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "040",
+        "db_MUNICIPIO": "Calima Darien"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "037",
+        "db_MUNICIPIO": "Dagua"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "043",
+        "db_MUNICIPIO": "El Aguila"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "046",
+        "db_MUNICIPIO": "El Cairo"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "052",
+        "db_MUNICIPIO": "El Dovio"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "058",
+        "db_MUNICIPIO": "Ginebra"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "061",
+        "db_MUNICIPIO": "Guacari"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "064",
+        "db_MUNICIPIO": "Jamundí"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "067",
+        "db_MUNICIPIO": "La Cumbre"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "073",
+        "db_MUNICIPIO": "La Victoria"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "076",
+        "db_MUNICIPIO": "Obando"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "085",
+        "db_MUNICIPIO": "Restrepo"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "088",
+        "db_MUNICIPIO": "Rio Frio"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "094",
+        "db_MUNICIPIO": "San Pedro"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": 100,
+        "db_MUNICIPIO": "Toro"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": 103,
+        "db_MUNICIPIO": "Trujillo"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": 109,
+        "db_MUNICIPIO": "Ulloa"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": 112,
+        "db_MUNICIPIO": "Versalles"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": 115,
+        "db_MUNICIPIO": "Vijes"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": 118,
+        "db_MUNICIPIO": "Yotoco"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "028",
+        "db_MUNICIPIO": "Caicedonia"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "031",
+        "db_MUNICIPIO": "Candelaria"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "049",
+        "db_MUNICIPIO": "El Cerrito"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "055",
+        "db_MUNICIPIO": "Florida"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "064",
+        "db_MUNICIPIO": "Jamundí"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "070",
+        "db_MUNICIPIO": "La Union"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "082",
+        "db_MUNICIPIO": "Pradera"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "091",
+        "db_MUNICIPIO": "Roldanillo"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": "097",
+        "db_MUNICIPIO": "Sevilla"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": 121,
+        "db_MUNICIPIO": "Yumbo"
+    },
+    {
+        "db_Cod_DD": 31,
+        "db_DEPARTAMENTO": "Valle",
+        "db_Cod_MM": 124,
+        "db_MUNICIPIO": "Zarzal"
+    },
+    {
+        "db_Cod_DD": 40,
+        "db_DEPARTAMENTO": "Arauca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Arauca"
+    },
+    {
+        "db_Cod_DD": 40,
+        "db_DEPARTAMENTO": "Arauca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Arauca"
+    },
+    {
+        "db_Cod_DD": 40,
+        "db_DEPARTAMENTO": "Arauca",
+        "db_Cod_MM": "015",
+        "db_MUNICIPIO": "Cravo Norte"
+    },
+    {
+        "db_Cod_DD": 40,
+        "db_DEPARTAMENTO": "Arauca",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Arauca"
+    },
+    {
+        "db_Cod_DD": 40,
+        "db_DEPARTAMENTO": "Arauca",
+        "db_Cod_MM": "017",
+        "db_MUNICIPIO": "Fortul"
+    },
+    {
+        "db_Cod_DD": 40,
+        "db_DEPARTAMENTO": "Arauca",
+        "db_Cod_MM": "010",
+        "db_MUNICIPIO": "Arauquita"
+    },
+    {
+        "db_Cod_DD": 40,
+        "db_DEPARTAMENTO": "Arauca",
+        "db_Cod_MM": "020",
+        "db_MUNICIPIO": "Puerto Rondon"
+    },
+    {
+        "db_Cod_DD": 40,
+        "db_DEPARTAMENTO": "Arauca",
+        "db_Cod_MM": "025",
+        "db_MUNICIPIO": "Saravena"
+    },
+    {
+        "db_Cod_DD": 40,
+        "db_DEPARTAMENTO": "Arauca",
+        "db_Cod_MM": "005",
+        "db_MUNICIPIO": "Tame"
+    },
+    {
+        "db_Cod_DD": 44,
+        "db_DEPARTAMENTO": "Caqueta",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Florencia"
+    },
+    {
+        "db_Cod_DD": 44,
+        "db_DEPARTAMENTO": "Caqueta",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Florencia"
+    },
+    {
+        "db_Cod_DD": 44,
+        "db_DEPARTAMENTO": "Caqueta",
+        "db_Cod_MM": "010",
+        "db_MUNICIPIO": "San Vicente Del Caguan"
+    },
+    {
+        "db_Cod_DD": 44,
+        "db_DEPARTAMENTO": "Caqueta",
+        "db_Cod_MM": "022",
+        "db_MUNICIPIO": "Solano"
+    },
+    {
+        "db_Cod_DD": 44,
+        "db_DEPARTAMENTO": "Caqueta",
+        "db_Cod_MM": "002",
+        "db_MUNICIPIO": "Albania"
+    },
+    {
+        "db_Cod_DD": 44,
+        "db_DEPARTAMENTO": "Caqueta",
+        "db_Cod_MM": "004",
+        "db_MUNICIPIO": "Belen De Los Andaquies"
+    },
+    {
+        "db_Cod_DD": 44,
+        "db_DEPARTAMENTO": "Caqueta",
+        "db_Cod_MM": "006",
+        "db_MUNICIPIO": "El Paujil"
+    },
+    {
+        "db_Cod_DD": 44,
+        "db_DEPARTAMENTO": "Caqueta",
+        "db_Cod_MM": "007",
+        "db_MUNICIPIO": "La Montanita"
+    },
+    {
+        "db_Cod_DD": 44,
+        "db_DEPARTAMENTO": "Caqueta",
+        "db_Cod_MM": "017",
+        "db_MUNICIPIO": "Morelia"
+    },
+    {
+        "db_Cod_DD": 44,
+        "db_DEPARTAMENTO": "Caqueta",
+        "db_Cod_MM": "040",
+        "db_MUNICIPIO": "Valparaiso"
+    },
+    {
+        "db_Cod_DD": 44,
+        "db_DEPARTAMENTO": "Caqueta",
+        "db_Cod_MM": "003",
+        "db_MUNICIPIO": "Cartagena Del Chaira"
+    },
+    {
+        "db_Cod_DD": 44,
+        "db_DEPARTAMENTO": "Caqueta",
+        "db_Cod_MM": "012",
+        "db_MUNICIPIO": "Curillo"
+    },
+    {
+        "db_Cod_DD": 44,
+        "db_DEPARTAMENTO": "Caqueta",
+        "db_Cod_MM": "005",
+        "db_MUNICIPIO": "El Doncello"
+    },
+    {
+        "db_Cod_DD": 44,
+        "db_DEPARTAMENTO": "Caqueta",
+        "db_Cod_MM": "016",
+        "db_MUNICIPIO": "Milan"
+    },
+    {
+        "db_Cod_DD": 44,
+        "db_DEPARTAMENTO": "Caqueta",
+        "db_Cod_MM": "009",
+        "db_MUNICIPIO": "Puerto Rico"
+    },
+    {
+        "db_Cod_DD": 44,
+        "db_DEPARTAMENTO": "Caqueta",
+        "db_Cod_MM": "020",
+        "db_MUNICIPIO": "San Jose De La Fragua"
+    },
+    {
+        "db_Cod_DD": 44,
+        "db_DEPARTAMENTO": "Caqueta",
+        "db_Cod_MM": "024",
+        "db_MUNICIPIO": "Solita"
+    },
+    {
+        "db_Cod_DD": 46,
+        "db_DEPARTAMENTO": "Casanare",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Yopal"
+    },
+    {
+        "db_Cod_DD": 46,
+        "db_DEPARTAMENTO": "Casanare",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Yopal"
+    },
+    {
+        "db_Cod_DD": 46,
+        "db_DEPARTAMENTO": "Casanare",
+        "db_Cod_MM": 120,
+        "db_MUNICIPIO": "Chameza"
+    },
+    {
+        "db_Cod_DD": 46,
+        "db_DEPARTAMENTO": "Casanare",
+        "db_Cod_MM": 320,
+        "db_MUNICIPIO": "Hato Corozal"
+    },
+    {
+        "db_Cod_DD": 46,
+        "db_DEPARTAMENTO": "Casanare",
+        "db_Cod_MM": 480,
+        "db_MUNICIPIO": "La Salina"
+    },
+    {
+        "db_Cod_DD": 46,
+        "db_DEPARTAMENTO": "Casanare",
+        "db_Cod_MM": 520,
+        "db_MUNICIPIO": "Mani"
+    },
+    {
+        "db_Cod_DD": 46,
+        "db_DEPARTAMENTO": "Casanare",
+        "db_Cod_MM": 540,
+        "db_MUNICIPIO": "Monterrey"
+    },
+    {
+        "db_Cod_DD": 46,
+        "db_DEPARTAMENTO": "Casanare",
+        "db_Cod_MM": 560,
+        "db_MUNICIPIO": "Nunchia"
+    },
+    {
+        "db_Cod_DD": 46,
+        "db_DEPARTAMENTO": "Casanare",
+        "db_Cod_MM": 640,
+        "db_MUNICIPIO": "Orocue"
+    },
+    {
+        "db_Cod_DD": 46,
+        "db_DEPARTAMENTO": "Casanare",
+        "db_Cod_MM": 700,
+        "db_MUNICIPIO": "Pore"
+    },
+    {
+        "db_Cod_DD": 46,
+        "db_DEPARTAMENTO": "Casanare",
+        "db_Cod_MM": 760,
+        "db_MUNICIPIO": "Recetor"
+    },
+    {
+        "db_Cod_DD": 46,
+        "db_DEPARTAMENTO": "Casanare",
+        "db_Cod_MM": 800,
+        "db_MUNICIPIO": "Sabanalarga"
+    },
+    {
+        "db_Cod_DD": 46,
+        "db_DEPARTAMENTO": "Casanare",
+        "db_Cod_MM": 815,
+        "db_MUNICIPIO": "Sacama"
+    },
+    {
+        "db_Cod_DD": 46,
+        "db_DEPARTAMENTO": "Casanare",
+        "db_Cod_MM": 830,
+        "db_MUNICIPIO": "San Luis De Palenque"
+    },
+    {
+        "db_Cod_DD": 46,
+        "db_DEPARTAMENTO": "Casanare",
+        "db_Cod_MM": 840,
+        "db_MUNICIPIO": "Tamara"
+    },
+    {
+        "db_Cod_DD": 46,
+        "db_DEPARTAMENTO": "Casanare",
+        "db_Cod_MM": 850,
+        "db_MUNICIPIO": "Tauramena"
+    },
+    {
+        "db_Cod_DD": 46,
+        "db_DEPARTAMENTO": "Casanare",
+        "db_Cod_MM": 865,
+        "db_MUNICIPIO": "Trinidad"
+    },
+    {
+        "db_Cod_DD": 46,
+        "db_DEPARTAMENTO": "Casanare",
+        "db_Cod_MM": "040",
+        "db_MUNICIPIO": "Aguazul"
+    },
+    {
+        "db_Cod_DD": 46,
+        "db_DEPARTAMENTO": "Casanare",
+        "db_Cod_MM": 680,
+        "db_MUNICIPIO": "Paz De Ariporo"
+    },
+    {
+        "db_Cod_DD": 46,
+        "db_DEPARTAMENTO": "Casanare",
+        "db_Cod_MM": 880,
+        "db_MUNICIPIO": "Villanueva"
+    },
+    {
+        "db_Cod_DD": 48,
+        "db_DEPARTAMENTO": "La Guajira",
+        "db_Cod_MM": "010",
+        "db_MUNICIPIO": "Maicao"
+    },
+    {
+        "db_Cod_DD": 48,
+        "db_DEPARTAMENTO": "La Guajira",
+        "db_Cod_MM": "011",
+        "db_MUNICIPIO": "Manaure"
+    },
+    {
+        "db_Cod_DD": 48,
+        "db_DEPARTAMENTO": "La Guajira",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Riohacha"
+    },
+    {
+        "db_Cod_DD": 48,
+        "db_DEPARTAMENTO": "La Guajira",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Riohacha"
+    },
+    {
+        "db_Cod_DD": 48,
+        "db_DEPARTAMENTO": "La Guajira",
+        "db_Cod_MM": "016",
+        "db_MUNICIPIO": "Uribia"
+    },
+    {
+        "db_Cod_DD": 48,
+        "db_DEPARTAMENTO": "La Guajira",
+        "db_Cod_MM": "002",
+        "db_MUNICIPIO": "Albania"
+    },
+    {
+        "db_Cod_DD": 48,
+        "db_DEPARTAMENTO": "La Guajira",
+        "db_Cod_MM": "004",
+        "db_MUNICIPIO": "Barrancas"
+    },
+    {
+        "db_Cod_DD": 48,
+        "db_DEPARTAMENTO": "La Guajira",
+        "db_Cod_MM": "005",
+        "db_MUNICIPIO": "Dibulla"
+    },
+    {
+        "db_Cod_DD": 48,
+        "db_DEPARTAMENTO": "La Guajira",
+        "db_Cod_MM": "008",
+        "db_MUNICIPIO": "Distraccion"
+    },
+    {
+        "db_Cod_DD": 48,
+        "db_DEPARTAMENTO": "La Guajira",
+        "db_Cod_MM": "006",
+        "db_MUNICIPIO": "El Molino"
+    },
+    {
+        "db_Cod_DD": 48,
+        "db_DEPARTAMENTO": "La Guajira",
+        "db_Cod_MM": "009",
+        "db_MUNICIPIO": "Hatonuevo"
+    },
+    {
+        "db_Cod_DD": 48,
+        "db_DEPARTAMENTO": "La Guajira",
+        "db_Cod_MM": "012",
+        "db_MUNICIPIO": "La Jagua Del Pilar"
+    },
+    {
+        "db_Cod_DD": 48,
+        "db_DEPARTAMENTO": "La Guajira",
+        "db_Cod_MM": "016",
+        "db_MUNICIPIO": "Uribia"
+    },
+    {
+        "db_Cod_DD": 48,
+        "db_DEPARTAMENTO": "La Guajira",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Riohacha"
+    },
+    {
+        "db_Cod_DD": 48,
+        "db_DEPARTAMENTO": "La Guajira",
+        "db_Cod_MM": "016",
+        "db_MUNICIPIO": "Uribia"
+    },
+    {
+        "db_Cod_DD": 48,
+        "db_DEPARTAMENTO": "La Guajira",
+        "db_Cod_MM": "018",
+        "db_MUNICIPIO": "Urumita"
+    },
+    {
+        "db_Cod_DD": 48,
+        "db_DEPARTAMENTO": "La Guajira",
+        "db_Cod_MM": "007",
+        "db_MUNICIPIO": "Fonseca"
+    },
+    {
+        "db_Cod_DD": 48,
+        "db_DEPARTAMENTO": "La Guajira",
+        "db_Cod_MM": "013",
+        "db_MUNICIPIO": "San Juan Del Cesar"
+    },
+    {
+        "db_Cod_DD": 48,
+        "db_DEPARTAMENTO": "La Guajira",
+        "db_Cod_MM": "020",
+        "db_MUNICIPIO": "Villanueva"
+    },
+    {
+        "db_Cod_DD": 50,
+        "db_DEPARTAMENTO": "Guainia",
+        "db_Cod_MM": "070",
+        "db_MUNICIPIO": "Barrancominas"
+    },
+    {
+        "db_Cod_DD": 50,
+        "db_DEPARTAMENTO": "Guainia",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Puerto Inirida"
+    },
+    {
+        "db_Cod_DD": 50,
+        "db_DEPARTAMENTO": "Guainia",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Puerto Inirida"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Villavicencio"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "005",
+        "db_MUNICIPIO": "Acacias"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "035",
+        "db_MUNICIPIO": "Granada"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "043",
+        "db_MUNICIPIO": "Puerto Gaitan"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Villavicencio"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "006",
+        "db_MUNICIPIO": "Barranca De Upia"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "008",
+        "db_MUNICIPIO": "Cabuyaro"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "010",
+        "db_MUNICIPIO": "Castilla La Nueva"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "015",
+        "db_MUNICIPIO": "Cubarral"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "020",
+        "db_MUNICIPIO": "Cumaral"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "025",
+        "db_MUNICIPIO": "El Calvario"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "027",
+        "db_MUNICIPIO": "El Castillo"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "028",
+        "db_MUNICIPIO": "El Dorado"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "030",
+        "db_MUNICIPIO": "Fuente De Oro"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "040",
+        "db_MUNICIPIO": "Guamal"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "042",
+        "db_MUNICIPIO": "Lejanias"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "046",
+        "db_MUNICIPIO": "Mapiripan"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "044",
+        "db_MUNICIPIO": "Mesetas"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "047",
+        "db_MUNICIPIO": "Puerto Concordia"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "048",
+        "db_MUNICIPIO": "Puerto Lleras"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "045",
+        "db_MUNICIPIO": "Puerto Lopez"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "049",
+        "db_MUNICIPIO": "Puerto Rico"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "050",
+        "db_MUNICIPIO": "Restrepo"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "055",
+        "db_MUNICIPIO": "San Carlos De Guaroa"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "058",
+        "db_MUNICIPIO": "San Juan De Arama"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "059",
+        "db_MUNICIPIO": "San Juanito"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "060",
+        "db_MUNICIPIO": "San Martin"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Villavicencio"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Villavicencio"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "080",
+        "db_MUNICIPIO": "Vista Hermosa"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "074",
+        "db_MUNICIPIO": "La Uribe"
+    },
+    {
+        "db_Cod_DD": 52,
+        "db_DEPARTAMENTO": "Meta",
+        "db_Cod_MM": "041",
+        "db_MUNICIPIO": "Macarena"
+    },
+    {
+        "db_Cod_DD": 54,
+        "db_DEPARTAMENTO": "Guaviare",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "San Jose Del Guaviare"
+    },
+    {
+        "db_Cod_DD": 54,
+        "db_DEPARTAMENTO": "Guaviare",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "San Jose Del Guaviare"
+    },
+    {
+        "db_Cod_DD": 54,
+        "db_DEPARTAMENTO": "Guaviare",
+        "db_Cod_MM": "003",
+        "db_MUNICIPIO": "Calamar"
+    },
+    {
+        "db_Cod_DD": 54,
+        "db_DEPARTAMENTO": "Guaviare",
+        "db_Cod_MM": "007",
+        "db_MUNICIPIO": "El Retorno"
+    },
+    {
+        "db_Cod_DD": 54,
+        "db_DEPARTAMENTO": "Guaviare",
+        "db_Cod_MM": "012",
+        "db_MUNICIPIO": "Miraflores"
+    },
+    {
+        "db_Cod_DD": 56,
+        "db_DEPARTAMENTO": "San Andres",
+        "db_Cod_MM": "004",
+        "db_MUNICIPIO": "Providencia"
+    },
+    {
+        "db_Cod_DD": 56,
+        "db_DEPARTAMENTO": "San Andres",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "San Andrés"
+    },
+    {
+        "db_Cod_DD": 56,
+        "db_DEPARTAMENTO": "San Andres",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "San Andrés"
+    },
+    {
+        "db_Cod_DD": 60,
+        "db_DEPARTAMENTO": "Amazonas",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Leticia"
+    },
+    {
+        "db_Cod_DD": 60,
+        "db_DEPARTAMENTO": "Amazonas",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Leticia"
+    },
+    {
+        "db_Cod_DD": 60,
+        "db_DEPARTAMENTO": "Amazonas",
+        "db_Cod_MM": "007",
+        "db_MUNICIPIO": "Puerto Nariño"
+    },
+    {
+        "db_Cod_DD": 64,
+        "db_DEPARTAMENTO": "Putumayo",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Mocoa"
+    },
+    {
+        "db_Cod_DD": 64,
+        "db_DEPARTAMENTO": "Putumayo",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Mocoa"
+    },
+    {
+        "db_Cod_DD": 64,
+        "db_DEPARTAMENTO": "Putumayo",
+        "db_Cod_MM": "004",
+        "db_MUNICIPIO": "Puerto Leguizamo"
+    },
+    {
+        "db_Cod_DD": 64,
+        "db_DEPARTAMENTO": "Putumayo",
+        "db_Cod_MM": "007",
+        "db_MUNICIPIO": "Colon"
+    },
+    {
+        "db_Cod_DD": 64,
+        "db_DEPARTAMENTO": "Putumayo",
+        "db_Cod_MM": "026",
+        "db_MUNICIPIO": "Puerto Caicedo"
+    },
+    {
+        "db_Cod_DD": 64,
+        "db_DEPARTAMENTO": "Putumayo",
+        "db_Cod_MM": "025",
+        "db_MUNICIPIO": "Puerto Guzman"
+    },
+    {
+        "db_Cod_DD": 64,
+        "db_DEPARTAMENTO": "Putumayo",
+        "db_Cod_MM": "013",
+        "db_MUNICIPIO": "San Francisco"
+    },
+    {
+        "db_Cod_DD": 64,
+        "db_DEPARTAMENTO": "Putumayo",
+        "db_Cod_MM": "018",
+        "db_MUNICIPIO": "San Miguel"
+    },
+    {
+        "db_Cod_DD": 64,
+        "db_DEPARTAMENTO": "Putumayo",
+        "db_Cod_MM": "016",
+        "db_MUNICIPIO": "Santiago"
+    },
+    {
+        "db_Cod_DD": 64,
+        "db_DEPARTAMENTO": "Putumayo",
+        "db_Cod_MM": "019",
+        "db_MUNICIPIO": "Sibundoy"
+    },
+    {
+        "db_Cod_DD": 64,
+        "db_DEPARTAMENTO": "Putumayo",
+        "db_Cod_MM": "023",
+        "db_MUNICIPIO": "Orito"
+    },
+    {
+        "db_Cod_DD": 64,
+        "db_DEPARTAMENTO": "Putumayo",
+        "db_Cod_MM": "002",
+        "db_MUNICIPIO": "Puerto Asis"
+    },
+    {
+        "db_Cod_DD": 64,
+        "db_DEPARTAMENTO": "Putumayo",
+        "db_Cod_MM": "028",
+        "db_MUNICIPIO": "Valle Del Guamuez"
+    },
+    {
+        "db_Cod_DD": 64,
+        "db_DEPARTAMENTO": "Putumayo",
+        "db_Cod_MM": "030",
+        "db_MUNICIPIO": "Villagarzon"
+    },
+    {
+        "db_Cod_DD": 68,
+        "db_DEPARTAMENTO": "Vaupes",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Mitú"
+    },
+    {
+        "db_Cod_DD": 68,
+        "db_DEPARTAMENTO": "Vaupes",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Mitú"
+    },
+    {
+        "db_Cod_DD": 68,
+        "db_DEPARTAMENTO": "Vaupes",
+        "db_Cod_MM": "004",
+        "db_MUNICIPIO": "Caruru"
+    },
+    {
+        "db_Cod_DD": 68,
+        "db_DEPARTAMENTO": "Vaupes",
+        "db_Cod_MM": "017",
+        "db_MUNICIPIO": "Taraira"
+    },
+    {
+        "db_Cod_DD": 72,
+        "db_DEPARTAMENTO": "Vichada",
+        "db_Cod_MM": "006",
+        "db_MUNICIPIO": "Cumaribo"
+    },
+    {
+        "db_Cod_DD": 72,
+        "db_DEPARTAMENTO": "Vichada",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Puerto Carreño"
+    },
+    {
+        "db_Cod_DD": 72,
+        "db_DEPARTAMENTO": "Vichada",
+        "db_Cod_MM": "001",
+        "db_MUNICIPIO": "Puerto Carreño"
+    },
+    {
+        "db_Cod_DD": 72,
+        "db_DEPARTAMENTO": "Vichada",
+        "db_Cod_MM": "008",
+        "db_MUNICIPIO": "La Primavera"
+    },
+    {
+        "db_Cod_DD": 72,
+        "db_DEPARTAMENTO": "Vichada",
+        "db_Cod_MM": "002",
+        "db_MUNICIPIO": "Santa Rosalia"
+    }
+]

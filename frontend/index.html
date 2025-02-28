@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GESECA - Gestión de Sedes y Canales</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="/scripts/script.js"></script>
+</head>
+<body>
+    <header>
+        <h1>GESECA - Gestión de Sedes y Canales</h1>
+        <div>
+            <span>Bienvenido, <span id="usuario_nombre"></span></span>
+            <button id="cerrar_sesion">Cerrar Sesión</button>
+        </div>
+    </header>
+
+    <section class="filtros">
+        <h2>Buscar Sedes</h2>
+        <label for="filtro_sdwan">SD-WAN:</label>
+        <select id="filtro_sdwan">
+            <option value="">Todos</option>
+            <option value="Si">Sí</option>
+            <option value="No">No</option>
+        </select>
+        
+        <label for="filtro_tipo_sede">Tipo de Sede:</label>
+        <select id="filtro_tipo_sede">
+            <option value="">Todos</option>
+            <option value="Delegación">Delegación</option>
+            <option value="Municipal">Municipal</option>
+            <option value="Auxiliares">Auxiliares</option>
+            <option value="Especial">Especial</option>
+            <option value="Auxiliares Bogotá">Auxiliares Bogotá</option>
+            <option value="Distrital">Distrital</option>
+            <option value="CAN">CAN</option>
+        </select>
+        
+        <label for="filtro_departamento">Departamento:</label>
+        <select id="filtro_departamento"></select>
+        
+        <label for="filtro_municipio">Municipio:</label>
+        <select id="filtro_municipio"></select>
+        
+        <label for="filtro_sede">Nombre de Sede:</label>
+        <select id="filtro_sede" disabled></select>
+        
+        <button onclick="buscarSedes()">Buscar</button>
+    </section>
+
+    <section>
+        <h2>Resultados de la Búsqueda</h2>
+        <table id="tabla_sedes">
+            <thead>
+                <tr>
+                    <th>Código</th>
+                    <th>Nombre</th>
+                    <th>Tipo</th>
+                    <th>Departamento</th>
+                    <th>Municipio</th>
+                    <th>SD-WAN</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Aquí se mostrarán las sedes filtradas -->
+            </tbody>
+        </table>
+        <button onclick="exportar('sedes', 'excel')">Exportar a Excel</button>
+        <button onclick="exportar('sedes', 'pdf')">Exportar a PDF</button>
+    </section>
+</body>
+</html>
